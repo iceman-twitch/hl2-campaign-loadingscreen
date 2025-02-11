@@ -20,7 +20,7 @@
 
     - Automatically captures and displays in-game screenshots at the end of each map.
 
-    -- Deletes the screenshot file upon loading to save space.
+    - Deletes the screenshot file upon loading to save space.
 
 - Known Issues:
 
