@@ -11,6 +11,7 @@
 -- Version: 0.13v 2025/02/11-13:28 
 
 -- Description:
+
 -- This addon enhances the loading screen experience for the HL2 Campaign gamemode in Garry’s Mod. It features a custom HTML-based loading screen that dynamically saves a screenshot every time the player reaches the end of a map. The saved screenshot is then displayed during the next loading screen, providing a seamless and immersive transition between maps.
 
 -- Key Features:
