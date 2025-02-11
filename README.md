@@ -1,9 +1,13 @@
 # hl2-campaign-loadingscreen
 
 -- Addon Name: HL2 Campaign Loading Screen 
+
 -- Author: iceman_twitch 
+
 -- Email: iceman.twitch.contact@gmail.com 
+
 -- Website: linktr.ee/iceman_twitch 
+
 -- Version: 0.13v 2025/02/11-13:28 
 
 -- Description:
