@@ -34,7 +34,7 @@ if CLIENT then
     local author = "iceman_twitch"
     local email = "iceman.twitch.contact@gmail.com"
     local website = "linktr.ee/iceman_twitch"
-    local version = "0.13v 2025/02/11-13:28"
+    local version = "0.14v 2025/02/12-18:47"
     local aaaaaaaaaa = print
     local shutdown = false
     local function print(...)
